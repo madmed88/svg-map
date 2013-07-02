@@ -1,0 +1,10 @@
+#canvas {
+    position: absolute;
+    display: inline-block;
+    width: 70%;
+    height: 90%;
+}
+.form-container {
+    display: inline-block;
+    width: 20%;
+}
